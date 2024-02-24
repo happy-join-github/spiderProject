@@ -1,0 +1,16 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Connection: keep-alive
+Cookie: bid=iC0xEzY7tn8; _pk_ref.100001.4cf6=%5B%22%22%2C%22%22%2C1708686557%2C%22https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Db-nKZBEIdAh8p-EYkH74-PR85yTfZC94W0PjPJk2ylxgNFqq4UPpVPje2g_Kf3T9%26wd%3D%26eqid%3Db00a020d001e4fbe0000000365d87cd8%22%5D; _pk_id.100001.4cf6=7b86610f3868b43b.1708686557.; _pk_ses.100001.4cf6=1; ap_v=0,6.0; __utma=30149280.478243868.1708686558.1708686558.1708686558.1; __utmb=30149280.0.10.1708686558; __utmc=30149280; __utmz=30149280.1708686558.1.1.utmcsr=baidu|utmccn=(organic)|utmcmd=organic; __utma=223695111.1181192121.1708686558.1708686558.1708686558.1; __utmb=223695111.0.10.1708686558; __utmc=223695111; __utmz=223695111.1708686558.1.1.utmcsr=baidu|utmccn=(organic)|utmcmd=organic; __yadk_uid=RHU2EhcgMctmWf2eALkWS7J3nvVtrKAc
+Host: movie.douban.com
+Referer: https://movie.douban.com/top250?start=25&filter=
+sec-ch-ua: "Chromium";v="9", "Not?A_Brand";v="8"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 SLBrowser/9.0.3.1311 SLBChan/11
